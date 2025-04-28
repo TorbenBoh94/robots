@@ -13,7 +13,6 @@ ${config_excel_file}    ../data/config.xlsx
 Initilize
     # Read Config File
     # Templatekeywords.Check and Create Log file    test
-    Get Transaction
     Open Edge Browser
 
 
