@@ -25,7 +25,6 @@ Open Edge Browser
     ...    browser_selection=edge
     ...    maximized=${True}
     ...    headless=${True}
-    Read Config File
     Capture Page Screenshot    filename=test.png
 
     Close Browser
